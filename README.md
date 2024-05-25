@@ -11,6 +11,7 @@
     <h7>Game development:</h7>
     <br><br>
     <img height="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Video-Game-Controller-Icon-IDV-green-industry.svg/1024px-Video-Game-Controller-Icon-IDV-green-industry.svg.png">
+    <h6>(Mostly)*</h6>
   </ol>
 </ol>
 <hr>
